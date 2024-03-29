@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+
+  body{
+    @apply font-roboto text-16px text-darkSlateGrey font-normal bg-darkSlateGrey;
+  }
+
+}
